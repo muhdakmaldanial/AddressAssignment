@@ -14,7 +14,7 @@ set path=C:\Program Files\Java\jdk1.8.0_31\bin
 ```
 3. Go to the place where you downloaded the code files and chdir the directory.
 ```
-cd C:\Users\xxxxx\Desktop\xxxxx\
+cd C:\Users\xxxxx....
 ```
 4. Type the following command and hit enter :
 ```
