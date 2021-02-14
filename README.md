@@ -18,7 +18,7 @@ cd C:\Users\xxxxx....
 ```
 4. Type the following command and hit enter :
 ```
-javac FirstJavaProgram.java
+javac main.java
 ```
 5. Then, type the following command :
 ```
