@@ -12,7 +12,7 @@ In order to run this program, you have to install Java Development Kit. It is pr
 ```
 set path=C:\Program Files\Java\jdk1.8.0_31\bin
 ```
-3. Go to the place where you downloaded the code files and chdir the directory. Find rc file and chdir the directory.
+3. Go to the place where you downloaded the code files and chdir the directory. Find src file and chdir the directory.
 ```
 cd C:\Users\xxxxx....
 ```
