@@ -18,7 +18,7 @@ cd C:\Users\xxxxx....
 ```
 4. Type the following command and hit enter :
 ```
-javac Main.java
+javac Main.java GetAddress.java AddressExtractComponent.java AptNumber.java City.java PostCode.java State.java Street.java Section.java DisplayAddress.java
 ```
 5. Then, type the following command :
 ```
