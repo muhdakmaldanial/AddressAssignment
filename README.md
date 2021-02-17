@@ -18,11 +18,11 @@ cd C:\Users\xxxxx....
 ```
 4. Type the following command and hit enter :
 ```
-javac main.java
+javac Main.java
 ```
 5. Then, type the following command :
 ```
-java main
+java Main
 ```
 6. Enter any free form text as input.
 7. The program will show the output.
